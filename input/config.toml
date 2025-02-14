@@ -1,0 +1,8 @@
+[ data ]
+password = "GenBySexfrance@2025"
+email_verified = false
+
+[ dev ]
+Debug = false
+Proxyless = true
+Threads = 1
